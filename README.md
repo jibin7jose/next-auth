@@ -57,17 +57,4 @@ http://localhost:3000/dashboard
 
 
 
-register
-http://localhost:3000/auth/register
-![register Screenshot](./Screenshot 2025-09-24 095452.png)
 
-login
-http://localhost:3000/auth/login
-![login Screenshot](./Screenshot 2025-09-24 095507.png)
-
-forget
-http://localhost:3000/auth/forget
-![forget Screenshot](./Screenshot 2025-09-24 095521.png)
-
-
-http://localhost:3000/dashboard
