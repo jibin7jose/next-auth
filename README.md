@@ -37,6 +37,22 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
+# My Project Screenshots
+
+## Register Page
+![Register](./register.png)
+http://localhost:3000/auth/register
+
+## Login Page
+![Login](./login.png)
+http://localhost:3000/auth/login
+
+## Forget Password Page
+![Forget Password](./forget.png)
+http://localhost:3000/auth/forget
+
+## Dashboard
+http://localhost:3000/dashboard
 
 
 
